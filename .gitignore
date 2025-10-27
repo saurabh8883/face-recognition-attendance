@@ -1,3 +1,5 @@
+.venv/
+
 shape_predictor_68_face_landmarks.dat
 dlib_face_recognition_resnet_model_v1.dat
 
@@ -5,3 +7,4 @@ dlib_face_recognition_resnet_model_v1.dat
 *.jpeg
 *.png
 *.mp4
+__pycache__/
